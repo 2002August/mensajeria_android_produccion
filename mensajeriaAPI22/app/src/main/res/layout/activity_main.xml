@@ -60,6 +60,7 @@
         android:fontFamily="@font/luckiest_guy"
         android:text="direct message "
         android:textSize="34sp"
+        android:textStyle="bold|italic"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
