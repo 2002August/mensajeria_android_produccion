@@ -189,6 +189,7 @@
         android:backgroundTint="#54A867"
         android:fontFamily="@font/luckiest_guy"
         android:text=" registrarse"
+        android:onClick="irRegistrado"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextText7" />
 
